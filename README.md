@@ -1,4 +1,4 @@
-Hi 👋, I'm Suprith Sreekantaswamy<br>A passionate Data Scientist from India 🇮🇳<br><br>🌱 I’m currently learning Data Structures and Algorithms ,Generative AI and NLP<br><br>👨‍💻 I’m currently working on Data Structures and Algorithms<br><br>📑 Check out my resume here - https://bit.ly/4duYDCa<br><br>💻 All of my projects are available on GitHub<br><br>📫 Reach out to me at sreekantaswamysuprith@gmail.com
+Hi 👋, I'm Suprith Sreekantaswamy<br>A passionate Data Scientist from India 🇮🇳<br><br>🌱 I’m currently learning Data Structures and Algorithms ,Generative AI and NLP<br><br>👨‍💻 I’m currently working on Data Structures and Algorithms<br><br>📑 Check out my resume here - https://bit.ly/3N14LYb<br><br>💻 All of my projects are available on GitHub<br><br>📫 Reach out to me at sreekantaswamysuprith@gmail.com
 
 
 ## 🌐 Socials:
